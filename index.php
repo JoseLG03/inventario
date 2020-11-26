@@ -11,9 +11,6 @@
 <script type="text/javascript" src="js/Myriad_Pro_italic_600.font.js"></script>
 <script type="text/javascript" src="js/Myriad_Pro_italic_400.font.js"></script>
 <script type="text/javascript" src="js/Myriad_Pro_400.font.js"></script>
-<!--[if lt IE 9]>
-	<script type="text/javascript" src="js/html5.js"></script>
-<![endif]-->
 </head>
 <body id="page1">
     <div class="main">
