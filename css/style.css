@@ -10,7 +10,7 @@ body {background:#fff;border:0;font:14px Arial,Helvetica,sans-serif;color:#3c404
 .inner_copy, .inner_copy a {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
 .css3{border-radius:8px;-moz-border-radius:8px;-webkit-border-radius:8px;box-shadow:0 0 4px rgba(0, 0, 0, .4);-moz-box-shadow:0 0 4px rgba(0, 0, 0, .4);-webkit-box-shadow:0 0 4px rgba(0, 0, 0, .4);behavior:url(js/PIE.htc);position:relative}
 .main {margin:0 auto;width:1000px}
-.body1 {background:url(../images/bg_top.jpg) top center no-repeat #1e2023}
+.body1 {background:url(../images/bg_bot.jpg) top center no-repeat #1e2023}
 .body2 {background:url(../images/bg_bot.jpg) top center no-repeat #1e2023}
 a {color:#1e749a;text-decoration:underline;outline:none}
 a:hover {text-decoration:none}
@@ -24,7 +24,7 @@ header .right {width:600px}
 table {color:#3c4046;  background:#f8f8f8;;
  border:2px solid gray;
  border-collapse:collapse;
- align:center;
+ align-items:center;
 }
 caption { border:1px solid #f8f8f8;;
  color:#3c4046;
@@ -36,11 +36,11 @@ caption { border:1px solid #f8f8f8;;
 }
 td, th { color:#3c4046;
  padding:.4em;
- align:center;
+ align-items:center;
 }
 tr { 
     border:1px dotted gray;
-    align:center;
+    align-items:center;
 }
 
 #logo {display:block;background:url(../images/logo.jpg) 0 0 no-repeat;width:176px;height:39px;text-indent:-5000px}
