@@ -10,8 +10,7 @@ body {background:#fff;border:0;font:14px Arial,Helvetica,sans-serif;color:#3c404
 .inner_copy, .inner_copy a {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
 .css3{border-radius:8px;-moz-border-radius:8px;-webkit-border-radius:8px;box-shadow:0 0 4px rgba(0, 0, 0, .4);-moz-box-shadow:0 0 4px rgba(0, 0, 0, .4);-webkit-box-shadow:0 0 4px rgba(0, 0, 0, .4);behavior:url(js/PIE.htc);position:relative}
 .main {margin:0 auto;width:1000px}
-.body1 {background:url(../images/bg_bot.jpg) top center no-repeat #1e2023}
-.body2 {background:url(../images/bg_bot.jpg) top center no-repeat #1e2023}
+.body1 {background:url(../images/banner.jpg) top center no-repeat #1e2023}
 a {color:#1e749a;text-decoration:underline;outline:none}
 a:hover {text-decoration:none}
 h1 {font-size:20px;font-weight:400;text-transform:uppercase;line-height:26px;color:#fff;float:left;padding:23px 0 0 58px}
@@ -92,7 +91,7 @@ footer a {color:#3e96b4}
 #form_1 .bg {background:#fff;border-top:1px solid #ccc;border-left:1px solid #ccc;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;behavior:url(js/PIE.htc);position:relative;margin-bottom:8px}
 #form_1 .radio {width:92px;float:left}
 #form_1 .radio input {vertical-align:middle;float:left;line-height:20px}
-#ContactForm {}
+
 #ContactForm .bg {float:right;background:#f8f8f8;border-top:1px solid #c6c6c6;border-left:1px solid #c6c6c6;margin-bottom:8px;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;behavior:url(js/PIE.htc);position:relative}
 #ContactForm a {margin-top:12px}
 #ContactForm .input {height:17px;width:412px;background:none;color:#9d9fa2;font:14px Arial,Helvetica,sans-serif;padding:2px 15px}
