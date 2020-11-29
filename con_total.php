@@ -8,9 +8,7 @@
 <script type="text/javascript" src="js/jquery-1.4.2.js" ></script>
 <script type="text/javascript" src="js/cufon-yui.js"></script>
 <script type="text/javascript" src="js/cufon-replace.js"></script> 
-<!--[if lt IE 9]>
-	<script type="text/javascript" src="js/html5.js"></script>
-<![endif]-->
+
 </head>
 <body id="page1">
     <div class="main">
