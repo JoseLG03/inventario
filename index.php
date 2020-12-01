@@ -17,7 +17,8 @@
         <?php include('menu.php'); ?>
                 <article class="col2 pad_left1">
 			<h2>Bienvenido al Sistema</h2>
-                        <form id="ContactForm" action="prueba.php"  method="get">
+                <!--
+				<form id="ContactForm" action="prueba.php"  method="get">
 				<div>
 					<div class="wrapper">
                                             <div class="bg"><input type="text" id="usuario" name="usuario" class="input" /></div>
@@ -32,7 +33,8 @@
 
 					<a href="#" class="button1" onClick="document.getElementById('ContactForm').submit()">Entrar</a>
 				</div>
-			</form>
+				</form>
+				-->
 		</article>
           </section>
         <?php include('footer.php'); ?>
